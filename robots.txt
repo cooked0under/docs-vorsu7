@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-rsts0b.indocuan-win.sbs/sitemap.xml
